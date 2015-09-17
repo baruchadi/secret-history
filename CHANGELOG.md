@@ -16,7 +16,7 @@ From here on out, years will be denoted by *AG* (*Anno de Gabe*, which means *Ye
 - Gabriel Timotei (president & founder)
 - [Caleb Meredith](https://twitter.com/calebmer) (vice-president)
 - [Justin Greene](https://twitter.com/gworksdev) (Project Manager)
-- [Baruch Hen](https://twitter.com/_IsolatedPixel) (co-lecturer & game-developer)
+- [Baruch Hen](https://Isolatedpixel.com) (co-lecturer & game-developer)
 - Alex Diep (co-founder & private-tutorer)
 
 ### History
